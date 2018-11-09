@@ -2,7 +2,7 @@
 
 Este aplicativo é um front-end do chatbot que usa o Watson Conversation da IBM.
 
-![Demo](readme_images/demo.gif)
+![Demo](public/images/demo.jpg)
 
 Por favor, faça o seguinte:
 
@@ -41,4 +41,4 @@ conversationWorkspace = "<workspace_id>";
 + Execute o `npm start` para iniciar o aplicativo
 + Pronto acesse o aplicativo no navegador em <http://localhost:3000>
 
-[Instalar o Node.js]: https://nodejs.org/en/download/
+[Instalar o Node.js]: https://nodejs.org/en/
